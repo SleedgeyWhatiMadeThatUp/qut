@@ -161,3 +161,19 @@ div{
     color: #4354b5;
     background-color: rgba(0, 0, 0, 0) !important;
 }
+
+.bd-blue .mention {
+    color: #e4ba0a !important;
+}
+
+.member-roles .member-role span {
+    display: initial;
+}
+
+.member-roles .member-role {
+    line-height: 0p !important;
+}
+
+.theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div {
+    background: transparent !important;
+}
