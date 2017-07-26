@@ -1,0 +1,163 @@
+div{
+    font-family: 'Noto Naskh Arabic', sans-serif;
+}
+
+.member-username{
+    font-size: 13px !important;
+}
+
+.channel-members .member .member-activity {
+    font-size: 10px !important;
+}
+
+.app {
+    /* background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-344049.jpg) !important;
+ */
+    background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-130050.jpg) !important;
+    background-size: cover !important;
+    background-color: transparent !important;
+}
+
+.theme-dark .chat>.content {
+     background-color: transparent !important;
+    background: transparent !important;
+}
+
+.channels-wrap {
+     background-color: transparent !important;
+    background: transparent !important;
+    width: 150px !important;
+}
+
+.layer {
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+.content flex-spacer flex-horizontal{
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+.theme-dark .friends-table, .theme-dark .messages-wrapper{
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+.theme-dark .channel-members{
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+
+.channels-wrap{
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+.container-iksrDt{
+   background-color: transparent !important;
+    background: transparent !important;
+}
+
+.guilds-wrapper {
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+.theme-dark .layer, .theme-dark .layers {
+   background-color: transparent !important;
+    background: transparent !important;;
+}
+
+.container-RYiLUQ {
+    position: relative;
+    background-color: transparent !important;
+}
+
+        
+        
+        
+
+.button-1aU9q1 {
+    width: 24px;
+    height: 50px;
+}
+
+.chat>.title-wrap.title-wrap-dark {
+    border-bottom: 1px solid transparent !important;
+}
+
+.header-1tSljs {
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #2f3136;
+}
+
+.chat>.title-wrap.title-wrap-dark .topic {
+    color: #2f3136;
+    }
+
+.chat>.title-wrap.title-wrap-dark .channel-name {
+	color: #2f3136;
+	}
+
+.chat .messages-wrapper .scroller-wrap {
+    overflow: initial;
+}
+
+.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    background-color: transparent !important;
+    border: 0px solid #1A2838 !important;
+}
+
+.scroller-wrap .scroller::-webkit-scrollbar-thumb {
+    border-color: transparent !important;
+    background: transparent !important; 
+    border: 0px solid grey !important;
+}
+
+.theme-dark .chat form .typing {
+    background-color: transparent;
+}
+
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    color: rgba(75, 173, 29, 0.95);
+}
+
+.theme-dark .message-group .comment .markup {
+    color: #f6f6f7;
+}
+
+.header-1tSljs {
+    border-bottom: 1px solid transparent;
+}
+
+.theme-dark .chat {
+    background-color: transparent !important;
+}
+
+.guilds-wrapper .guilds .guild.unread:before {
+    background: #f04747;
+}
+
+.theme-dark .channel-members .member.popout-open, .theme-dark .channel-members .member:hover {
+    background: -webkit-gradient(linear,left top,right top,color-stop(85%,#282b30),to(#2f3136));
+    background: transparent;
+}
+
+.theme-dark .channel-members .avatar-small .status {
+    border-color: transparent;
+}
+
+.bd-blue .chat .has-more button {
+    color: #43b581;
+}
+.theme-dark .chat .has-more button {
+    background: rgba(0, 0, 0, 0.19);
+    border: 1px solid hsla(0, 0%, 100%, 0);
+}
+
+.theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span {
+    color: #4354b5;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
